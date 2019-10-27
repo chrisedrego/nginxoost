@@ -1,0 +1,9 @@
+- Linting
+- Syntax Highlighing
+- Formatting / Indentation
+- Drag and Drop
+- Helper for each feature 
+- Templates for Nodejs, Ruby on Rails, Wordpress, PHP
+- Create a zip file with all the dependencies
+- Create a Dockerfile as well
+- 
